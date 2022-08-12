@@ -7,3 +7,6 @@ Comandos terminal
   npm install react
   npm install react-dom
 
+  um só comando 
+  npm install next react react-dom
+
