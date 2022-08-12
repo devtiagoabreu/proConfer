@@ -1,2 +1,8 @@
- npm init -y
- npm install next
+créditos
+  Felipe Deshamps --> https://www.youtube.com/watch?v=EW7m2WIvFgQ&list=PLMdYygf53DP7FJzPslLnmqp0QylyFfA8a&index=1
+
+Comandos terminal
+  npm init -y
+  npm install next
+  npm install react
+  
