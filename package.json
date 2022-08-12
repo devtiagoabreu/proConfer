@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/devtiagoabreu/proConfer/issues"
   },
-  "homepage": "https://github.com/devtiagoabreu/proConfer#readme"
+  "homepage": "https://github.com/devtiagoabreu/proConfer#readme",
+  "dependencies": {
+    "next": "^12.2.5"
+  }
 }
