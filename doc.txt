@@ -15,6 +15,8 @@ criar a pasta pages e a index.js
 rodar em modo desenvolvedor localmente
   npm run dev
 
+Criar variáveis de ambiente na vercel
+
 
 
 
