@@ -6,6 +6,8 @@ async function cnpj(request, response) {
     const dadosCnpjJson = await dadosCnpj.json();
     const razaoSocial = dadosCnpjJson.nome;
 
+    response.setHeader('Cache-Control', 's-maxage=10, stale-while-revalidate');
+
     response.json({
         date: dynamicDate.toGMTString(),
         razaoSocial: razaoSocial
