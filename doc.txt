@@ -25,4 +25,7 @@ como gerar páginas dinamicamente no servidor
 getServerSideProps
 
 
+Como "Geração incremental de páginas estáticas" vem para solucionar tudo isso
+getStaticPaths
+
 

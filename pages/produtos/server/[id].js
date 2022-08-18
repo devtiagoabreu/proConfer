@@ -1,16 +1,16 @@
 //pegar parâmetros pelo server-side
 export async function getServerSideProps(context) {
-    const code = context.query.code;
+    const id = context.query.id;
 
     return {
         props: {
-            code: code
+            id: id
         }
     }
 }
 
 function Produtos(props) {
-    return <div>Code do produto: {props.code}</div>
+    return <div>Id do produto: {props.id}</div>
 
 }
 
