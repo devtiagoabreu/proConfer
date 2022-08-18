@@ -29,3 +29,5 @@ Como "Geração incremental de páginas estáticas" vem para solucionar tudo iss
 getStaticPaths
 
 
+
+
