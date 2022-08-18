@@ -53,3 +53,6 @@ npm install axios
 
 instalando o @heroicons
 npm install @heroicons/react
+
+instalando o @headlessui/react
+npm install @headlessui/react
