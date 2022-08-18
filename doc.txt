@@ -32,5 +32,9 @@ getStaticPaths
 instalando tsx no projeto
 npm install --save-dev typescript @types/react @types/node
 
+instalando o tailwindcss e suas dependências
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 
-
+instalando o uuid
+npm install uuid
