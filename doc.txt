@@ -18,5 +18,11 @@ rodar em modo desenvolvedor localmente
 Criar variáveis de ambiente na vercel
 
 
+Como usar parâmetros dinâmicos
+
+
+como gerar páginas dinamicamente no servidor
+getServerSideProps
+
 
 

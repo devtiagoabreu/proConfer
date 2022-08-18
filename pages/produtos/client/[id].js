@@ -1,3 +1,4 @@
+//pegar parâmetros pelo client-side
 import { useRouter } from 'next/router';
 
 function Produtos() {
