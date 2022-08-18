@@ -46,3 +46,10 @@ npm install react-hook-form
 
 instalando o nookies
 npm install nookies
+
+
+instalando o axios
+npm install axios
+
+instalando o @heroicons
+npm install @heroicons/react

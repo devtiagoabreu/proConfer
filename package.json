@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/devtiagoabreu/proConfer#readme",
   "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "axios": "^0.27.2",
     "next": "^12.2.5",
     "nookies": "^2.5.2",
     "react": "^18.2.0",
