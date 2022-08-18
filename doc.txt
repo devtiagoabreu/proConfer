@@ -38,3 +38,11 @@ npx tailwindcss init -p
 
 instalando o uuid
 npm install uuid
+
+
+instalando o react-hook-form
+npm install react-hook-form
+
+
+instalando o nookies
+npm install nookies
