@@ -1,5 +1,8 @@
 créditos
   Felipe Deshamps --> https://www.youtube.com/watch?v=EW7m2WIvFgQ&list=PLMdYygf53DP7FJzPslLnmqp0QylyFfA8a&index=1
+  
+  Rocketseat --> https://www.youtube.com/watch?v=pvrKHpXGO8E&t=520s
+
 
 Comandos terminal
   npm init -y
@@ -56,3 +59,12 @@ npm install @heroicons/react
 
 instalando o @headlessui/react
 npm install @headlessui/react
+
+CSR = Client-side Rendering
+-renderizando a tela no cliente (processamento tela do usuário)
+
+SSR = Server-side Rendering
+-renderizando a tela no servidor (resultado na tela do usuário)
+
+SSG = Static-site Generation
+-renderiza no build e carrega em cache uma parte dos dados dinâmicos (gera páginas estáticas de dados dinâmicos e carrega no cache)
